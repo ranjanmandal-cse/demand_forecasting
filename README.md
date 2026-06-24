@@ -98,7 +98,7 @@ An 80/20 chronological split is used — **no random shuffling** to preserve tem
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YourUsername/demand-forecasting.git
+git clone https://github.com/ranjanmandal-cse/demand-forecasting.git
 cd demand-forecasting
 ```
 
