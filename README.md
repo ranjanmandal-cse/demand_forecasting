@@ -124,7 +124,7 @@ jupyter notebook timeseries2.ipynb
 
 ##  App Preview
 
-> Take a screenshot of your Streamlit app and upload it here
+![App Preview](app_preview.png)
 
 ---
 
