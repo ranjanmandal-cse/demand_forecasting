@@ -4,7 +4,7 @@ A complete time-series forecasting project that benchmarks three popular approac
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 demand_forecasting/
 
@@ -12,11 +12,11 @@ demand_forecasting/
 
 ├── app.py                     
 
-├── timeseries2.ipynb          
+├── demand_forecasting.ipynb          
 
 ├── requirements.txt           
 
-├── submission.csv             
+├── train.csv             
 
 └── README.md                  
 
@@ -117,7 +117,7 @@ streamlit run app.py
 **4. Or run the notebook**
 
 ```bash
-jupyter notebook timeseries2.ipynb
+jupyter notebook demand_forecasting.ipynb
 ```
 
 ---
@@ -141,7 +141,7 @@ jupyter notebook timeseries2.ipynb
 
 ---
 
-## 🔑 Key Takeaways
+##  Key Takeaways
 
 | Aspect               | ARIMA          | Prophet            | XGBoost                     |
 |----------------------|----------------|--------------------|-----------------------------|
@@ -153,36 +153,33 @@ jupyter notebook timeseries2.ipynb
 
 ---
 
-## 🗂️ Kaggle Competition
+##  Kaggle Competition
 
 This project is based on the
 [Store Item Demand Forecasting Challenge](https://www.kaggle.com/competitions/demand-forecasting-kernels-only)
 
 ---
 
-## 📋 Requirements
+##  Requirements
 
 - Python 3.8+
 - pandas, numpy, matplotlib, seaborn
 - statsmodels, prophet, xgboost
 - scikit-learn, streamlit, jupyter
 
-Install all with:
-```bash
-pip install -r requirements.txt
-```
+
 
 ---
 
-## 👤 Author
+##  Author
 
 **Your Name**
-- GitHub: [@YourUsername](https://github.com/YourUsername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: (https://github.com/ranjanmandal-cse)
+- LinkedIn: www.linkedin.com/in/ranjan-kumar-mandal-1886a5196
 
 ---
 
-## 📜 License
+##  License
 
 MIT License — free to use and modify.
 
